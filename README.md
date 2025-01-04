@@ -1,1 +1,1 @@
-# this is my first git project the project which i will pushing to the website is the list of recipes and link which redirect on clicking the recipes . The skills which i wil be demonstrating is basic html tags and much more to learn but this is still basic.
+# this is my first git project the project which i will pushing to the website is the list of recipes and link which redirect on clicking the recipes . 
